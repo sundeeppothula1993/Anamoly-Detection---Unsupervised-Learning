@@ -11,11 +11,11 @@ Insurance claims data set is used for finding fraudulent claim records and medic
 This is an unsupervised learning task.
 
 The claims data format is a comma-separated file with the following columns
-1)     Patient Family ID
-2)     Patient Family Member ID
-3)     Provider ID
-4)     Provider Type
-5)     State Code
-6)     Date of Service
-7)     Medical Procedure Code
-8)     Dollar Amount of Claim
+                  1)     Patient Family ID
+                  2)     Patient Family Member ID
+                  3)     Provider ID
+                  4)     Provider Type
+                  5)     State Code
+                  6)     Date of Service
+                  7)     Medical Procedure Code
+                  8)     Dollar Amount of Claim
